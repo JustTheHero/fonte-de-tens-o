@@ -1,7 +1,7 @@
 # fonte-de-tensao
 
 
-###### Componentes:
+# Componentes:
 ---
 
 | Quantidades   | Componentes   | Preço |
