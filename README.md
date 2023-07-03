@@ -53,16 +53,14 @@ Link do circuito [aqui](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgj
 * Ripple: (Vmax – Vponte diodo) - (Vmin)  =  (24 – 1,4) - 21,6 = 0,7 
 
 * 0,7 = 24/120xCx565 == 500uF 
-
-* Valor utilizado de 1m pois era oq tinha 
-
+ 
 * Diodo Zenner: 12V de saida + 0,7V do transistor + coeficiente de erro = 13V
 
 # Participantes:
 ---
 #### Juan Marques Jordão (hero)
 
-#### Augusto Esqueci o sobrenome (lixeira)
+#### Augusto Cavalcante Barbosa Pereira (lixeira)
 
 #### Gabriel Hyppolito (gabirula)
 
