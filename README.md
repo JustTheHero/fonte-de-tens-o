@@ -34,3 +34,36 @@
 * Transistor: O transistor nesse circuito atua de forma a permitir que a corrente passe pelo aparelho acoplado à fonte sem que ela passe pelo diodo zenner e o queime, dado que o mesmo suporta apenas correntes mínimas (nesse circuito, cerca de 10mA). Ele precisa de 0,7V para funcionar. 
 
 * Ponte de diodo: A ponte de diodo permite que mesmo com a alteração do ciclo da corrente alternada, que se trata de uma senoide, o circuito continue recebendo corrente. Ela precisa de 1,4V para funcionar, acarretando uma queda de tensão de 24V(Vmax) para 22,6V. 
+
+# Circuito no Falstad:
+---
+
+![imagem_2023-07-03_201700964](https://github.com/JustTheHero/fonte-de-tensao/assets/114316462/3dfda506-8051-4b8c-b7dd-0cc1cde6453f)
+Link do circuito [aqui](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEB2WZIICxgEwGZMA2QgDmRMJEwE4QlM86BTAWjDACgBnEHHTECUgg8CHIOGSQAMwCGAGy5MOAN179whYXwF4cUiFvBCopmAg4B3dbv28SJEXchX7jvcNHiPUDgRAAJgCWAPYBTAC2YUzypmDQDvBJyZB4rI4wkDgUvFRwvgF02RIghAiUJuLB0VHh8hyFZZQ+Yu524mAAcphwmA2l5U7CrSUd3b39Iz5No4FMcgCu8gAuHAAqecImU85UUNBgeHgUiSTlyFp4yEgs5oQ4yNTU7EdPOM+0bNBihKKiYMhILgENQEKxkPsntQOGB7ihSCULo4cIMqvNZEtlix5ExChApJlOAAneHIwZIoamTCAlzWHSjDSwySuLyUnqeZyuGYmQjIcQmWkDZp2UhtZnWXn84SikouADGpQcJRlPkksCB6mgr0g1EwQj4qSy+zgnGsJD0lKEHOZAHNFWL7SIxGZXNRigDKG7kZAMjDkAIvbwfSBA-xhBAEPBIaCUikIAAlJhcIJcZayAB2cuUJNDPRDxTwkAE2n0gsDhYDBc51nLdgotnFIcwAnp1AuNl8yxD7dbbo74ZAbBI0EIuvI1DIoLw1AwSBgvJIOFIcCuWWnE-A+XCixWrr7+kcbxDlBcOf3eaPqvA+j33jstcbR5MR+oJ9c5rvW0IDd8Nfd7cDMBm18fwAC8mHTJgiTYPAWHEcNoGQICvBIMAvXQOAcHBUwOkYThQMEb9LSIj1cnAyDoMOOD33yEx61ld8iOfPsBVdd1gPooDi0YgRSM44DT0IgQ6JIgTNzgFlnRMdkGIAD0EQYETIcQkL2Q4QHjTh5NHXiZxQGhwGoRheMYABhWQAAdZDlIJlhCIkOHkttvGOTd3hEbA1MYeMLKJIJMyCKz6ic-x9HECckH0ehBBAAAFEJlggmyABeIiYZYiRCRzBELXgwEcEhQXUCBeOEAARAAdLgAC0IIoqqYIANWy65aCORxkGuDySvAbycGyt1PGnEM8GaTBxBMjS8AGp51CQdBUWKSa1iJDNk1TezXApHwrUpQVtpFJVVS5JUTApVjrHOrZaOZeSsAhAhDH8AgBEm+L00Sqrwi+0IAiy+SHmlXRIAhXkvJAUyAAtZBUZQAaIXhPNeRHXt6kAADEQg+pgvpx1MIK4ABj-68ghf06D1FAIWW1b0y4aR7IiWQ-qJKrcGQBqAWakJeFB4s8lm5xoHg3IHhEDgeYtIjhB6QW1SyebcgtaagA)
+
+# Cálculos:
+---
+* Capacitância: Ripple = Vs / f x C x R 
+
+* Vs = Vpico = 17. √2 = 24V  
+
+* F = 60x2 = 120Hz 
+
+* Requivalentemax = 22,6V / 40mA = 565 Ω 
+* Ripple: (Vmax – Vponte diodo) - (Vmin)  =  (24 – 1,4) - 21,6 = 0,7 
+
+* 0,7 = 24/120xCx565 == 500uF 
+
+* Valor utilizado de 1m pois era oq tinha 
+
+* Diodo Zenner: 12V de saida + 0,7V do transistor + coeficiente de erro = 13V
+
+# Participantes:
+---
+#### Juan Marques Jordão (hero)
+
+#### Augusto Esqueci o sobrenome (lixeira)
+
+#### Gabriel Hyppolito (gabirula)
+
+#### Vinicius Gustierrez Neves (vicininho)
