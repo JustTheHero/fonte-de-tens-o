@@ -58,7 +58,7 @@ Link do circuito [aqui](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgj
 
 # Vídeo no YouTube:
 ---
-[link](https://youtu.be/ehXos4MNOw)
+[link](https://www.youtube.com/watch?v=ehXos4eMNOw&pp=ygUrdW0gZXhwZXJpbWVudG8gcXVlIGRldSBjZXJ0bywgbyBsZWQgYWNlbmRldQ%3D%3D))
 
 # Participantes:
 ---
