@@ -44,7 +44,7 @@ Link do circuito [aqui](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgj
 # Circuito no Eagle:
 ---
 ![imagem_2023-07-03_201700964](https://github.com/JustTheHero/fonte-de-tensao/assets/114316462/3dfda506-8051-4b8c-b7dd-0cc1cde6453f)
-Link do Circuito [aqui](https)
+
 
 # Cálculos:
 ---
