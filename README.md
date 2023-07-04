@@ -41,6 +41,11 @@
 ![imagem_2023-07-03_201700964](https://github.com/JustTheHero/fonte-de-tensao/assets/114316462/3dfda506-8051-4b8c-b7dd-0cc1cde6453f)
 Link do circuito [aqui](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEB2WZIICxgEwGZMA2QgDmRMJEwE4QlM86BTAWjDACgBnEHHTECUgg8CHIOGSQAMwCGAGy5MOAN179whYXwF4cUiFvBCopmAg4B3dbv28SJEXchX7jvcNHiPUDgRAAJgCWAPYBTAC2YUzypmDQDvBJyZB4rI4wkDgUvFRwvgF02RIghAiUJuLB0VHh8hyFZZQ+Yu524mAAcphwmA2l5U7CrSUd3b39Iz5No4FMcgCu8gAuHAAqecImU85UUNBgeHgUiSTlyFp4yEgs5oQ4yNTU7EdPOM+0bNBihKKiYMhILgENQEKxkPsntQOGB7ihSCULo4cIMqvNZEtlix5ExChApJlOAAneHIwZIoamTCAlzWHSjDSwySuLyUnqeZyuGYmQjIcQmWkDZp2UhtZnWXn84SikouADGpQcJRlPkksCB6mgr0g1EwQj4qSy+zgnGsJD0lKEHOZAHNFWL7SIxGZXNRigDKG7kZAMjDkAIvbwfSBA-xhBAEPBIaCUikIAAlJhcIJcZayAB2cuUJNDPRDxTwkAE2n0gsDhYDBc51nLdgotnFIcwAnp1AuNl8yxD7dbbo74ZAbBI0EIuvI1DIoLw1AwSBgvJIOFIcCuWWnE-A+XCixWrr7+kcbxDlBcOf3eaPqvA+j33jstcbR5MR+oJ9c5rvW0IDd8Nfd7cDMBm18fwAC8mHTJgiTYPAWHEcNoGQICvBIMAvXQOAcHBUwOkYThQMEb9LSIj1cnAyDoMOOD33yEx61ld8iOfPsBVdd1gPooDi0YgRSM44DT0IgQ6JIgTNzgFlnRMdkGIAD0EQYETIcQkL2Q4QHjTh5NHXiZxQGhwGoRheMYABhWQAAdZDlIJlhCIkOHkttvGOTd3hEbA1MYeMLKJIJMyCKz6ic-x9HECckH0ehBBAAAFEJlggmyABeIiYZYiRCRzBELXgwEcEhQXUCBeOEAARAAdLgAC0IIoqqYIANWy65aCORxkGuDySvAbycGyt1PGnEM8GaTBxBMjS8AGp51CQdBUWKSa1iJDNk1TezXApHwrUpQVtpFJVVS5JUTApVjrHOrZaOZeSsAhAhDH8AgBEm+L00Sqrwi+0IAiy+SHmlXRIAhXkvJAUyAAtZBUZQAaIXhPNeRHXt6kAADEQg+pgvpx1MIK4ABj-68ghf06D1FAIWW1b0y4aR7IiWQ-qJKrcGQBqAWakJeFB4s8lm5xoHg3IHhEDgeYtIjhB6QW1SyebcgtaagA)
 
+# Circuito no Eagle:
+---
+![imagem_2023-07-03_201700964](https://github.com/JustTheHero/fonte-de-tensao/assets/114316462/3dfda506-8051-4b8c-b7dd-0cc1cde6453f)
+Link do Circuito [aqui](https)
+
 # Cálculos:
 ---
 * Capacitância: Ripple = Vs / f x C x R 
@@ -58,7 +63,26 @@ Link do circuito [aqui](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgj
 
 # Vídeo no YouTube:
 ---
-[link](https://www.youtube.com/watch?v=ehXos4eMNOw&pp=ygUrdW0gZXhwZXJpbWVudG8gcXVlIGRldSBjZXJ0bywgbyBsZWQgYWNlbmRldQ%3D%3D))
+[link](https://www.youtube.com/watch?v=ehXos4eMNOw&pp=ygUrdW0gZXhwZXJpbWVudG8gcXVlIGRldSBjZXJ0bywgbyBsZWQgYWNlbmRldQ%3D%3D)
+
+
+
+
+
+# Projeto-Arduino:
+
+
+# Código fonte:
+---
+![imagem_2023-07-03_201700964](https://github.com/JustTheHero/fonte-de-tensao/assets/114316462/3dfda506-8051-4b8c-b7dd-0cc1cde6453f)
+
+# Vídeo no YouTube:
+---
+[link](https://www.youtube.com/watch?v=ehXos4eMNOw&pp=ygUrdW0gZXhwZXJpbWVudG8gcXVlIGRldSBjZXJ0bywgbyBsZWQgYWNlbmRldQ%3D%3D)
+
+
+
+
 
 # Participantes:
 ---
