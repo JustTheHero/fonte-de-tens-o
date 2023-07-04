@@ -56,6 +56,10 @@ Link do circuito [aqui](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgj
  
 * Diodo Zenner: 12V de saida + 0,7V do transistor + coeficiente de erro = 13V
 
+# Vídeo no YouTube:
+---
+[link](https://youtu.be/ehXos4MNOw)
+
 # Participantes:
 ---
 #### Juan Marques Jordão (hero)
