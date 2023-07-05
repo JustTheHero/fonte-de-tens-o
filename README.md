@@ -74,7 +74,7 @@ Link do circuito [aqui](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgj
 # Projeto-Arduino:
 
 # Introdução:
-TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP 
+O projeto é sobre um dispositivo que detecta a presença de água no sensor e com esse sinal recolhe a estrutura do varal para um local protegido, evitando assim que as roupas tomem chuva.
 
 
 # Código fonte:
@@ -84,7 +84,7 @@ TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEXTOP TEX
 
 # Vídeo no YouTube:
 ---
-[link](https://www.youtube.com/watch?v=ehXos4eMNOw&pp=ygUrdW0gZXhwZXJpbWVudG8gcXVlIGRldSBjZXJ0bywgbyBsZWQgYWNlbmRldQ%3D%3D)
+[link](https://www.youtube.com/watch?v=ehXos4eMNOw&pp=ygUrdW0gZXhwZXJpbWVudG8gcXVlIGRldSBjZXJ0bywgbyBsZWQgYWNlbmRldQ%3D%3D)](https://youtu.be/J3WtUEaTZNA)
 
 
 
