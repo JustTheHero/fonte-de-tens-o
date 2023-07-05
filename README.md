@@ -84,7 +84,7 @@ O projeto é sobre um dispositivo que detecta a presença de água no sensor e c
 
 # Vídeo no YouTube:
 ---
-[link](https://www.youtube.com/watch?v=ehXos4eMNOw&pp=ygUrdW0gZXhwZXJpbWVudG8gcXVlIGRldSBjZXJ0bywgbyBsZWQgYWNlbmRldQ%3D%3D)](https://youtu.be/J3WtUEaTZNA)
+[link](https://youtu.be/J3WtUEaTZNA)
 
 
 
