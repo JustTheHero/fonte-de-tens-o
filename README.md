@@ -43,6 +43,7 @@ Link do circuito [aqui](https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgj
 
 # Circuito no Eagle:
 ---
+![WhatsApp Image 2023-07-04 at 20 24 59](https://github.com/JustTheHero/fonte-de-tensao/assets/114316462/f704cd7e-6f38-4732-9db9-a02e829140e8)
 
 
 
