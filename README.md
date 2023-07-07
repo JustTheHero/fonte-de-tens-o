@@ -79,7 +79,7 @@ O projeto é sobre um dispositivo que detecta a presença de água no sensor e c
 
 # Código fonte:
 ---
-![WhatsApp Image 2023-07-05 at 11 28 33](https://github.com/JustTheHero/fonte-de-tensao/assets/114316462/402d12a5-f2c1-4d6a-9ada-916b67569630)
+![Sem título](https://github.com/JustTheHero/fonte-de-tensao/assets/114316462/7f3379f8-fc05-4eaa-8a02-2bcd5839acd8)
 
 
 # Vídeo no YouTube:
